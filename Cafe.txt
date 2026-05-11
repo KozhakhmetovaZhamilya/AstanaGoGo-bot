@@ -1,0 +1,195 @@
+Project
+
+	1.	Семейное
+		Бюджет: 
+				Малый 
+			1. Chekhov 
+				Tole bi 61 
+				Rate: 4.6 
+				Average: 3000 tg
+				
+			2. Alita Coffee 
+				Nurmagambetova 27/1 
+				Rate: 4.8
+				Average: 2500 tg 
+
+			3. Nan Coffee 
+				Satbayev 24
+				Rate: 4.8
+				Average: 2000 tg
+
+
+
+				Средний 
+			1. Nanmai 
+				Tokpanova 20
+				Rate: 4.7
+				Average: 3000 tg			
+
+			2. Qatty Tatty 
+				Kabanbay Batyr 56
+				Rate: 4.5
+				Average: 4000 
+
+			3. Pate 
+				Tole bi 48 
+				Rate: 4.6
+				Average: 5000 tg
+	
+			4. Ethno Coffee
+				Kultegin 23
+				Rate: 4.7
+				Average: 3500 tg
+
+большой
+
+			1. Segafredo Caffe 
+				Saryarka 8a
+				Rate: 4.6
+				Average: 6000 tg
+
+			2. Gasteria 
+				Turan 22/1
+				Rate: 4.5
+				Average: 7000 tg 
+	
+			3. Coffee BOOM 
+				Kabanabay Batyr 5б
+				Rate: 4.6
+				Average: 7000 tg
+
+работа/учеба
+	Бюджет 
+		Малый 
+			1. Connect multispace
+				Syganak 48a
+				Rate: 4.9				
+				Average: 1500tg
+
+			2. Zebra Coffee 
+				Mukhamedhanova 6
+				Rate: 4.8
+				Average: 2000 tg		
+
+			3. Drinkit 
+				Baitursunuly 9
+				Rate: 4.5 
+				Average: 1500
+
+			4. Luna Coffee
+				Mangilik El 37
+				Rate: 4.5
+				Average: 3000 tg	
+
+		Средний  			1.  Зико 
+				Turan 34a
+				Rate: 4.5
+				Average: 5000 tg 
+
+			2. Peak buro 
+				Kabanbay batyr 60/14
+				Rate: 4.6
+				Average: 4000 tg 
+
+			3. Master Coffee
+				Konaev 35
+				Rate: 4.7
+				Average: 3900 tg 
+
+			4. Sesame 
+				Kabanbay batyr 62
+				Rate: 4.7
+				Average: 5000 tg 
+
+			5. Mola 
+				Kabanbay batyr 62
+				Rate: 4.7
+				Average: 5000 tg 
+
+		Большой
+			1. Coffee BOOM 
+				Koshkarbayev 10/1
+				Rate: 4.7
+				Average: 7000 tg 
+
+			2.  Zada 
+				Mangilik El 61
+				Rate: 4.8
+				Average: 6000 tg
+	
+			3. La Crème 
+				Mangilik El 53
+				Rate: 4.6
+				Average: 7000 tg
+
+			4. Delish 
+				Turkestan 28a
+				Rate: 4.8
+				Average: 7000 tg 
+
+			5. Tary
+				Mangilik El 41/1
+				Rate: 4.6
+				Average: 7000 tg
+
+
+С друзьями 
+	Бюджет 
+		Малый	
+			1. Discovery Coffee 
+				Satbayev 5
+				Rate: 4.8 
+				Average: 2000 tg
+
+			2. Master Coffee Express 
+				Kenesary 22
+				Rate: 4.8
+				Average: 2500
+			
+			3. New Format
+				Baitursunuly 14
+				Rate: 4.7 
+				Average: 2000 tg
+
+			4. Vkusno Zhit 
+				Tauelsizdik 34/2
+				Rate: 4.9
+				Average: 1900 tg
+ 
+				
+		Средний 
+			1. Keks 
+				Aliev 2 
+				Rate: 4.7
+				Average: 3000 tg 
+
+			2. Kultura Dictuet 
+				Syganak 33
+				Rate: 4.6
+				Average: 3500 tg
+
+			3. Master Coffee 
+				Respublica 10
+				Rate: 4.8 
+				Average: 3900 tg
+
+			4. Bon Bon 
+				Konayev 14/1
+				Rate: 4.6
+				Average: 5500 tg
+   
+		Большой
+			1.  Coffee BOOM 
+				Kabanabay Batyr 5б
+				Rate: 4.6
+				Average: 7000 tg
+
+			2. Gasteria 
+				Turan 22/1
+				Rate: 4.5
+				Average: 7000 tg 
+
+			3. La Crème 
+				Mangilik El 53
+				Rate: 4.6
+				Average: 7000 tg
